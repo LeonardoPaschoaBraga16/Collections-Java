@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Carrinho/Carrinho.iml" filepath="$PROJECT_DIR$/Carrinho/Carrinho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Carrinho 2/Carrinho 2.iml" filepath="$PROJECT_DIR$/Carrinho 2/Carrinho 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Carrinho 3/Carrinho 3.iml" filepath="$PROJECT_DIR$/Carrinho 3/Carrinho 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estudo/Estudo.iml" filepath="$PROJECT_DIR$/Estudo/Estudo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funcional/Funcional.iml" filepath="$PROJECT_DIR$/Funcional/Funcional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HerancaGame/HerancaGame.iml" filepath="$PROJECT_DIR$/HerancaGame/HerancaGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projeto com Swing/Projeto com Swing.iml" filepath="$PROJECT_DIR$/Projeto com Swing/Projeto com Swing.iml" />
+    </modules>
+  </component>
+</project>
